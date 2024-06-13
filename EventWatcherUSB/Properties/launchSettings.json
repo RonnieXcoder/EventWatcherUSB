@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EventWatcherUSB (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EventWatcherUSB (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
