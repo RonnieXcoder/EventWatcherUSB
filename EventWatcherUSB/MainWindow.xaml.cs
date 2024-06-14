@@ -22,6 +22,7 @@ using Windows.Foundation.Collections;
 
 // If you enjoy this project, you can support it by making a donation!
 // Donation link: https://buymeacoffee.com/_ronniexcoder
+// You can also visit my YouTube channel for more content: https://www.youtube.com/@ronniexcoder
 
 namespace EventWatcherUSB
 {
@@ -143,5 +144,6 @@ namespace EventWatcherUSB
         
         // If you enjoy this project, you can support it by making a donation!
         // Donation link: https://buymeacoffee.com/_ronniexcoder
+        // You can also visit my YouTube channel for more content: https://www.youtube.com/@ronniexcoder
     }
 }
