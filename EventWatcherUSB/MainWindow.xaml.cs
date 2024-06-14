@@ -140,6 +140,8 @@ namespace EventWatcherUSB
             StatusBlock.Text = "";
             Contents.Clear();
         }
-
+        
+        // If you enjoy this project, you can support it by making a donation!
+        // Donation link: https://buymeacoffee.com/_ronniexcoder
     }
 }
